@@ -3,3 +3,11 @@
   tasks:
   - name: Create a file
     file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
+    file: path=/home/batch-26.txt state=touch
